@@ -79,7 +79,7 @@ const HeroSection: React.FC = () => {
               <motion.div variants={itemVariants} className="inline-flex items-center gap-3 bg-[rgba(212,117,91,0.1)] border border-[rgba(212,117,91,0.2)] rounded-full px-4 py-2 mb-10">
                 <div className="w-2 h-2 bg-[#D4755B] rounded-full" />
                 <span className="font-manrope font-bold text-xs text-[#D4755B] uppercase tracking-wider">
-                  AI-Powered Real Estate
+                  Real Estate Marketplace
                 </span>
               </motion.div>
 
